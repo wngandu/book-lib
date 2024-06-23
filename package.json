@@ -1,0 +1,29 @@
+{
+  "name": "book-lib",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "concurrently \"next dev\" \"node backend/index.js\"",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "@mui/icons-material": "^5.15.20",
+    "@mui/material": "^5.15.20",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "install": "^0.13.0",
+    "next": "14.2.4",
+    "npm": "^10.8.1",
+    "react": "^18",
+    "react-dom": "^18",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1"
+  },
+  "devDependencies": {
+    "concurrently": "^7.0.0"
+  }
+}
