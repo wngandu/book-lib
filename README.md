@@ -43,7 +43,7 @@ http://localhost:3000
 
 Here are some screenshots of the Book Library Project:
 
-![LOG TXT](./publick/ui0.png)
-![MAIN VIEW](./publick/ui1.png)
-![POP VIEW](./publick/ui2.png)
-![SWAGGER UI](./publick/ui3.png)
+![LOG TXT](./public/ui0.png)
+![MAIN VIEW](./public/ui1.png)
+![POP VIEW](./public/ui2.png)
+![SWAGGER UI](./public/ui3.png)
