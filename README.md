@@ -4,9 +4,10 @@ Welcome to the Book Library Project! This README will guide you through the step
 
 ## Prerequisites
 
-Make sure you have the following installed on your machine:
-- Node.js (v14 or higher)
-- npm (v6 or higher)
+Before you proceed, ensure you have the following installed on your machine and running (Windows: incase of error check your enviroment variables):
+
+- [Node.js](https://nodejs.org/) 
+- [GitBash](https://gitforwindows.org/)
 
 ## Getting Started
 
