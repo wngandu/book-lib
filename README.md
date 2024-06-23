@@ -39,3 +39,11 @@ Once the application is running, you can access the web UI at:
 
 http://localhost:3000
 
+## Screenshots
+
+Here are some screenshots of the Book Library Project:
+
+![LOG TXT](./images/ui0.png)
+![MAIN VIEW](./images/ui1.png)
+![POP VIEW](./images/ui2.png)
+![SWAGGER UI](./images/ui3.png)
